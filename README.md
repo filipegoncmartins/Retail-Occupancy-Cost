@@ -14,7 +14,7 @@ Detailed comparisons and analyses for retailers who have started within the last
 
 This tool aims to offer valuable insights for managing and optimizing occupancy costs, supporting both strategic and operational decision-making for the shopping network.
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/d5b8f176-ff40-4567-be3d-516ed98b9780?ctid=7dc647e5-6288-496e-9c52-70467492ebf3&pbi_source=linkShare
 
 ## Problem Statement
 
